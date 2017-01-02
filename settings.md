@@ -52,7 +52,7 @@ Oprogramownie do poprawnego działania wymaga stałego połączenia z protokołe
 ; @default "localhost:10011"
 hostname = "localhost:10011"
 ```
-Aby połączenie mogło zostać poprawnie nawiązane, należy tutaj podać host serwera docelowego oraz port, na którym jest dostępny protokół ServerQuery (`TCP` domyślnie 10011). W przypadku kiedy aplikacja nie może nawiązać połączenia z serwerem mimo poprawnej konfiguracji w tej sekcji, należy sprawdzić, czy adres serwera, na którym jest ona uruchomiona, został dodany do pliku 'query_ip_whitelist.txt' w katalogu głównym serwera TeamSpeak3.
+Aby połączenie mogło zostać poprawnie nawiązane, należy tutaj podać host serwera docelowego oraz port, na którym jest dostępny protokół ServerQuery (`TCP` domyślnie 10011). W przypadku kiedy aplikacja nie może nawiązać połączenia z serwerem mimo poprawnej konfiguracji w tej sekcji, należy sprawdzić, czy adres serwera, na którym jest ona uruchomiona, został dodany do pliku `query_ip_whitelist.txt` w katalogu głównym serwera TeamSpeak3.
 
 <a name="connection-auth"></a>
 ### Nazwa użytkownika i hasło
