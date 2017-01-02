@@ -7,4 +7,4 @@
   - [Podstawy](/solution/{{solution}}/settings)
   - [Funkcje](/solution/{{solution}}/settings-sensor)
   - [Metody](/solution/{{solution}}/settings-methods)
-  - [Wyjątki](/soltuion/{{solution}}/settings-exceptions)
+  - [Wyjątki](/solution/{{solution}}/settings-exceptions)
