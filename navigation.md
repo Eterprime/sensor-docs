@@ -1,5 +1,5 @@
 - Eter Sensor
-  - [Oprogramowanie](/solution/{{solution}}/index)
+  - [Oprogramowanie](/solution/{{solution}})
 - Instalacja
   - [Windows](/solution/{{solution}}/install-windows)
   - [Linux](/solution/{{solution}}/install-linux)
